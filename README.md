@@ -5,7 +5,15 @@ Microsite for Socrata Financial Transparency
 Third Party Plugins Used
 ---
 
-- Add Plugin Name Here
+- Contact From 7
+- Goodlayers Importer
+- Goodlayers Portflio Post Type
+- Goodlayers Shortcode
+- Google Tag Manager for Wordpress
+- Master Slider Pro
+- Stock Ticker
+- Wordpress Importer
+- WP Google Map Plugin
 
 Change History
 ---
